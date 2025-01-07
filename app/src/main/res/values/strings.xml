@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AcuteWeather</string>
+    <string name="search_location">Search Location</string>
+    <string name="enter_city_or_place">Enter city or place</string>
+    <string name="current_weather_in">Current Weather in %1$s</string>
+    <string name="_5_day_forecast">5-Day Forecast</string>
+    <string name="c">%1$s °C</string>
+    <string name="hourly">Hourly</string>
+    <string name="future_forecast">Future Forecast</string>
+</resources>
